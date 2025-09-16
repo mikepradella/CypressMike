@@ -17,7 +17,7 @@ describe('teste login Demo automacao Mike', () => {
   
   })
 
-   it.only('atualizando meu nome - my info ', () => {
+   it('atualizando meu nome - my info ', () => {
     //loga no site - mike
     cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
     
