@@ -46,8 +46,10 @@ Este projeto demonstra:
 - Adicionar integração com CI/CD (GitHub Actions)
 📬 Contato
 Se você gostou do projeto e quer saber mais sobre meu trabalho:
+
 Mike tyson schwarzenegger pradella
 📧 miketysonpradella@yahoo.com.br
+
 💼 LinkedIn : https://www.linkedin.com/in/ctfl-miketysonpradella-automa%C3%A7%C3%A3odetestes/
 
 
