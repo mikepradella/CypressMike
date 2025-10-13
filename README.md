@@ -15,15 +15,8 @@ Bem-vindo ao CypressMike, um projeto de automação de testes desenvolvido com C
 - 📦 Node.js
 
 📂 Estrutura do Projeto
-cypressMike/
-├── cypress/
-│   ├── e2e/
-│   │   ├── login.cy.js
-│   │   └── api-tests.cy.js
-│   ├── fixtures/
-│   └── support/
-├── package.json
-└── README.md
+
+<img width="363" height="212" alt="image" src="https://github.com/user-attachments/assets/cecf241c-7be6-4a7e-9586-6d412fe3d9c3" />
 
 
 
