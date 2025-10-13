@@ -23,15 +23,8 @@ Bem-vindo ao CypressMike, um projeto de automação de testes desenvolvido com C
 ✅ Cenários de Teste Implementados
 🔐 Teste de Login – OrangeHRM Demo
 Este teste verifica se o login com credenciais válidas é realizado com sucesso na aplicação OrangeHRM.
-describe('Teste de Login - Demo Automação Mike', () => {
-  it('Login com sucesso.', () => {
-    cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
-    cy.get('input[name="username"]').type('Admin')
-    cy.get('input[name="password"]').type('admin123')
-    cy.get('.oxd-button').click()
-    cy.get('.oxd-topbar-header-breadcrumb > .oxd-text').should('be.visible')
-  })
-})
+
+<img width="822" height="244" alt="image" src="https://github.com/user-attachments/assets/36e94419-0910-437a-a58d-aadbdae5f56c" />
 
 
 📌 Validações realizadas:
@@ -42,25 +35,13 @@ describe('Teste de Login - Demo Automação Mike', () => {
 
 🌐 Teste de API – JSONPlaceholder
 Este teste realiza uma requisição GET para validar os dados retornados de um post específico da API pública JSONPlaceholder.
-describe('Teste de API - JSONPlaceholder', () => {
-  it('Deve retornar dados de um post específico', () => {
-    cy.request('GET', 'https://jsonplaceholder.typicode.com/posts/1').then((response) => {
-      expect(response.status).to.eq(200)
-      expect(response.body).to.have.property('id', 1)
-      expect(response.body).to.have.property('title')
-      expect(response.body).to.have.property('body')
-    })
-  })
-})
+<img width="904" height="257" alt="image" src="https://github.com/user-attachments/assets/9b142648-fbae-4a15-b3ba-1c9d506e2f02" />
+
 
 
 📌 Validações realizadas:
 - Status da resposta igual a 200
 - Propriedades esperadas no corpo da resposta: id, title, body
-
-
-
-
 
 
 📸 Evidências de Execução
