@@ -68,7 +68,7 @@ Este projeto demonstra:
 Se você gostou do projeto e quer saber mais sobre meu trabalho:
 - 👤 Mike Tyson Schwarzenegger Pradella
 - 📧 miketysonpradella@yahoo.com.br
-- 💼 LinkedIn
+- 💼 LinkedIn https://www.linkedin.com/in/ctfl-miketysonpradella-automa%C3%A7%C3%A3odetestes/
 
 🔄 Projeto atualizado com testes de API – Demonstra habilidades completas em automação de testes web e serviços REST.
 
