@@ -31,9 +31,3 @@ describe(' Demo automacao  outro site Mike', () => {
 
 });
 
-it('teste', function() {});
-
-it('teste', function() {
- cy.visit('www.demoqa.com')
- 
-});
